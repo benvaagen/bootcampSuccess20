@@ -19,7 +19,7 @@
     "id": 3,
     "name": "Andrew Padgett",
     "image":
-      "./images/huskies.jpg",
+      "./images/andrewPadgett.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "name": "Jared Hennessey",
     "image":
-      "./images/jaredHennessey.JPG",
+      "./images/jaredHennessy.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "name": "Jeffrey Adamo",
     "image":
-      "./images/huskies.jpg",
+      "./images/jeffreyAdamo.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
