@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "AdamBirgenheier",
+    "image":
+      "./images/adamBirgenheier.png",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Alyssa Hellrung",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Andrew Padgett",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Armenuhi Avanesyan",
+    "image":
+      "./images/armenuhiAvanesyan.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 5,
+    "name": "Bipin Maharajan",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 6,
+    "name": "Cameron Dechand",
+    "image":
+      "./images/cameronDechand.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 7,
+    "name": "Christina Ausley",
+    "image":
+      "./images/christinaAusley.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 8,
+    "name": "Christopher Bragg",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 9,
+    "name": "Cristian Montenegro",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 10,
+    "name": "Dan Weikart",
+    "image":
+      "./images/danWeikart.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 11,
+    "name": "Daniel Tanoeihusada",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 12,
+    "name": "Daniel Villarroel",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 13,
+    "name": "Darryl Williams",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 14,
+    "name": "Dylan Bremner",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 15,
+    "name": "Eric Purrington",
+    "image":
+      "./images/ericPurrington.jpeg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 16,
+    "name": "Grant Smith",
+    "image":
+      "./images/grantSmith.JPG",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 17,
+    "name": "Jared Hennessey",
+    "image":
+      "./images/jaredHennessey.JPG",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 18,
+    "name": "Jeffrey Adamo",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 19,
+    "name": "Joanna Preston",
+    "image":
+      "./images/joannaPreston.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 20,
+    "name": "Julie Ritz",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 21,
+    "name": "Nathaniel Bowdish",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 22,
+    "name": "Nicholas Goudeau",
+    "image":
+      "./images/nickGoudeau.png",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 23,
+    "name": "Nicholas Landry",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 24,
+    "name": "Sabah Syed",
+    "image":
+      "./images/sabahSyed.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 25,
+    "name": "Sandrine Nubia",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 26,
+    "name": "Svetlana Demkovich",
+    "image":
+      "./images/svetlanaDemkovich.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 27,
+    "name": "Tyler McBride",
+    "image":
+      "./images/huskies.jpg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 28,
+    "name": "Vinh Mao",
+    "image":
+      "./images/vinhMao.jpeg",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  }
+]
