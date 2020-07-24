@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "AdamBirgenheier",
+    "name": "Adam Birgenheier",
     "image":
       "./images/adamBirgenheier.png",
     "occupation": "Fry Cook",
@@ -11,7 +11,7 @@
     "id": 2,
     "name": "Alyssa Hellrung",
     "image":
-      "./images/huskies.jpg",
+      "./images/alyssaHellrung.jpg",
     "occupation": "Restaurant Owner",
     "location": "A Giant Anchor"
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "name": "Bipin Maharajan",
     "image":
-      "./images/huskies.jpg",
+      "./images/bipinMaharajan.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "name": "Christopher Bragg",
     "image":
-      "./images/huskies.jpg",
+      "./images/christopherBragg.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "name": "Cristian Montenegro",
     "image":
-      "./images/huskies.jpg",
+      "./images/cristianMontenegro.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "name": "Daniel Tanoeihusada",
     "image":
-      "./images/huskies.jpg",
+      "./images/danielTanoeihusada.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Daniel Villarroel",
     "image":
-      "./images/huskies.jpg",
+      "./images/danielVillarroel.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "name": "Darryl Williams",
     "image":
-      "./images/huskies.jpg",
+      "./images/darrylWilliams.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "name": "Dylan Bremner",
     "image":
-      "./images/huskies.jpg",
+      "./images/dylanBremner.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "name": "Julie Ritz",
     "image":
-      "./images/huskies.jpg",
+      "./images/julieRitz.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -163,7 +163,7 @@
     "id": 21,
     "name": "Nathaniel Bowdish",
     "image":
-      "./images/huskies.jpg",
+      "./images/nathanielBowdish.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -179,7 +179,7 @@
     "id": 23,
     "name": "Nicholas Landry",
     "image":
-      "./images/huskies.jpg",
+      "./images/nickLandry.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -195,7 +195,7 @@
     "id": 25,
     "name": "Sandrine Nubia",
     "image":
-      "./images/huskies.jpg",
+      "./images/sandrineNubia.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },
@@ -211,7 +211,7 @@
     "id": 27,
     "name": "Tyler McBride",
     "image":
-      "./images/huskies.jpg",
+      "./images/tylerMcBride.jpg",
     "occupation": "Cashier",
     "location": "An Easter Island Head"
   },

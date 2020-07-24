@@ -1,180 +1,181 @@
 import React from "react";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
-import FriendCard from "./components/FriendCard";
-import friends from "./friends.json";
+import StudentCard from "./components/StudentCard";
+import students from "./students.json";
+
 
 function App() {
   return (
     <Wrapper>
-      <Title>Friends List</Title>
-      <FriendCard
-        name={friends[0].name}
-        image={friends[0].image}
-        occupation={friends[0].occupation}
-        location={friends[0].location}
+      <Title>2020 Bootcamp Students</Title>
+      <StudentCard
+        name={students[0].name}
+        image={students[0].image}
+        occupation={students[0].occupation}
+        location={students[0].location}
       />
-      <FriendCard
-        name={friends[1].name}
-        image={friends[1].image}
-        occupation={friends[1].occupation}
-        location={friends[1].location}
+      <StudentCard
+        name={students[1].name}
+        image={students[1].image}
+        occupation={students[1].occupation}
+        location={students[1].location}
       />
-      <FriendCard
-        name={friends[2].name}
-        image={friends[2].image}
-        occupation={friends[2].occupation}
-        location={friends[2].location}
+      <StudentCard
+        name={students[2].name}
+        image={students[2].image}
+        occupation={students[2].occupation}
+        location={students[2].location}
       />
-      <FriendCard
-        name={friends[3].name}
-        image={friends[3].image}
-        occupation={friends[3].occupation}
-        location={friends[3].location}
+      <StudentCard
+        name={students[3].name}
+        image={students[3].image}
+        occupation={students[3].occupation}
+        location={students[3].location}
       />
-        <FriendCard
-        name={friends[4].name}
-        image={friends[4].image}
-        occupation={friends[4].occupation}
-        location={friends[4].location}
+        <StudentCard
+        name={students[4].name}
+        image={students[4].image}
+        occupation={students[4].occupation}
+        location={students[4].location}
       />
-        <FriendCard
-        name={friends[5].name}
-        image={friends[5].image}
-        occupation={friends[5].occupation}
-        location={friends[5].location}
+        <StudentCard
+        name={students[5].name}
+        image={students[5].image}
+        occupation={students[5].occupation}
+        location={students[5].location}
       />
-        <FriendCard
-        name={friends[6].name}
-        image={friends[6].image}
-        occupation={friends[6].occupation}
-        location={friends[6].location}
+        <StudentCard
+        name={students[6].name}
+        image={students[6].image}
+        occupation={students[6].occupation}
+        location={students[6].location}
       />
-        <FriendCard
-        name={friends[7].name}
-        image={friends[7].image}
-        occupation={friends[7].occupation}
-        location={friends[7].location}
+        <StudentCard
+        name={students[7].name}
+        image={students[7].image}
+        occupation={students[7].occupation}
+        location={students[7].location}
       />
-        <FriendCard
-        name={friends[8].name}
-        image={friends[8].image}
-        occupation={friends[8].occupation}
-        location={friends[8].location}
+        <StudentCard
+        name={students[8].name}
+        image={students[8].image}
+        occupation={students[8].occupation}
+        location={students[8].location}
       />
-        <FriendCard
-        name={friends[9].name}
-        image={friends[9].image}
-        occupation={friends[9].occupation}
-        location={friends[9].location}
+        <StudentCard
+        name={students[9].name}
+        image={students[9].image}
+        occupation={students[9].occupation}
+        location={students[9].location}
       />
-        <FriendCard
-        name={friends[10].name}
-        image={friends[10].image}
-        occupation={friends[10].occupation}
-        location={friends[10].location}
+        <StudentCard
+        name={students[10].name}
+        image={students[10].image}
+        occupation={students[10].occupation}
+        location={students[10].location}
       />
-        <FriendCard
-        name={friends[11].name}
-        image={friends[11].image}
-        occupation={friends[11].occupation}
-        location={friends[11].location}
+        <StudentCard
+        name={students[11].name}
+        image={students[11].image}
+        occupation={students[11].occupation}
+        location={students[11].location}
       />
-        <FriendCard
-        name={friends[12].name}
-        image={friends[12].image}
-        occupation={friends[12].occupation}
-        location={friends[12].location}
+        <StudentCard
+        name={students[12].name}
+        image={students[12].image}
+        occupation={students[12].occupation}
+        location={students[12].location}
       />
-        <FriendCard
-        name={friends[13].name}
-        image={friends[13].image}
-        occupation={friends[13].occupation}
-        location={friends[13].location}
+        <StudentCard
+        name={students[13].name}
+        image={students[13].image}
+        occupation={students[13].occupation}
+        location={students[13].location}
       />
-        <FriendCard
-        name={friends[14].name}
-        image={friends[14].image}
-        occupation={friends[14].occupation}
-        location={friends[14].location}
+        <StudentCard
+        name={students[14].name}
+        image={students[14].image}
+        occupation={students[14].occupation}
+        location={students[14].location}
       />
-        <FriendCard
-        name={friends[15].name}
-        image={friends[15].image}
-        occupation={friends[15].occupation}
-        location={friends[15].location}
+        <StudentCard
+        name={students[15].name}
+        image={students[15].image}
+        occupation={students[15].occupation}
+        location={students[15].location}
       />
-        <FriendCard
-        name={friends[16].name}
-        image={friends[16].image}
-        occupation={friends[16].occupation}
-        location={friends[16].location}
+        <StudentCard
+        name={students[16].name}
+        image={students[16].image}
+        occupation={students[16].occupation}
+        location={students[16].location}
       />
-        <FriendCard
-        name={friends[17].name}
-        image={friends[17].image}
-        occupation={friends[17].occupation}
-        location={friends[17].location}
+        <StudentCard
+        name={students[17].name}
+        image={students[17].image}
+        occupation={students[17].occupation}
+        location={students[17].location}
       />
-        <FriendCard
-        name={friends[18].name}
-        image={friends[18].image}
-        occupation={friends[18].occupation}
-        location={friends[18].location}
+        <StudentCard
+        name={students[18].name}
+        image={students[18].image}
+        occupation={students[18].occupation}
+        location={students[18].location}
       />
-        <FriendCard
-        name={friends[19].name}
-        image={friends[19].image}
-        occupation={friends[19].occupation}
-        location={friends[19].location}
+        <StudentCard
+        name={students[19].name}
+        image={students[19].image}
+        occupation={students[19].occupation}
+        location={students[19].location}
       />
-        <FriendCard
-        name={friends[20].name}
-        image={friends[20].image}
-        occupation={friends[20].occupation}
-        location={friends[20].location}
+        <StudentCard
+        name={students[20].name}
+        image={students[20].image}
+        occupation={students[20].occupation}
+        location={students[20].location}
       />
-        <FriendCard
-        name={friends[21].name}
-        image={friends[21].image}
-        occupation={friends[21].occupation}
-        location={friends[21].location}
+        <StudentCard
+        name={students[21].name}
+        image={students[21].image}
+        occupation={students[21].occupation}
+        location={students[21].location}
       />
-        <FriendCard
-        name={friends[22].name}
-        image={friends[22].image}
-        occupation={friends[22].occupation}
-        location={friends[22].location}
+        <StudentCard
+        name={students[22].name}
+        image={students[22].image}
+        occupation={students[22].occupation}
+        location={students[22].location}
       />
-        <FriendCard
-        name={friends[23].name}
-        image={friends[23].image}
-        occupation={friends[23].occupation}
-        location={friends[23].location}
+        <StudentCard
+        name={students[23].name}
+        image={students[23].image}
+        occupation={students[23].occupation}
+        location={students[23].location}
       />
-        <FriendCard
-        name={friends[24].name}
-        image={friends[24].image}
-        occupation={friends[24].occupation}
-        location={friends[24].location}
+        <StudentCard
+        name={students[24].name}
+        image={students[24].image}
+        occupation={students[24].occupation}
+        location={students[24].location}
       />
-        <FriendCard
-        name={friends[25].name}
-        image={friends[25].image}
-        occupation={friends[25].occupation}
-        location={friends[25].location}
+        <StudentCard
+        name={students[25].name}
+        image={students[25].image}
+        occupation={students[25].occupation}
+        location={students[25].location}
       />
-        <FriendCard
-        name={friends[26].name}
-        image={friends[26].image}
-        occupation={friends[26].occupation}
-        location={friends[26].location}
+        <StudentCard
+        name={students[26].name}
+        image={students[26].image}
+        occupation={students[26].occupation}
+        location={students[26].location}
       />
-        <FriendCard
-        name={friends[27].name}
-        image={friends[27].image}
-        occupation={friends[27].occupation}
-        location={friends[27].location}
+        <StudentCard
+        name={students[27].name}
+        image={students[27].image}
+        occupation={students[27].occupation}
+        location={students[27].location}
       />
     </Wrapper>
   );
